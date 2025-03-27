@@ -16,8 +16,6 @@
   
 - Skill and Soft-Skill:
   
-    ![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     ![.JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![.Angula](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
     ![.Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,7 +27,7 @@
 - 👀 Em busca de oportunidade na área de desenvolvimento de software.
 - 🌱 Atualmente me graduando em Análise e Desenvolvimento de Sistemas no (Senac-DF), e fullstack (Senai-DF).
 - 💞️ interessado em colaborar com Equipes que buscam sempre o desenvolvimento profissional e pessoal ( ...
-- ⚡ Hobby: Praticante de Jiu Jitsu, Muay Thai e toco Violão.
+- ⚡ Hobby: Praticante de Jiu Jitsu, Muay Thai, e toco Violão e bateria.
 
 
 <!---
